@@ -1,0 +1,7 @@
+I put all the methods that had action to do with them generally ( if they have they same parameters and the its meant to be an action in the action class) . If the action method had any mention in activity or execute I put it in the Action Class. 
+
+I put all of the methods that had to do with creating objects and characteristics of the state of the entity ( ie getting an object, transforming, moveTo, and nextImage)to the Entity class. Entity deals with all the objects/sprites that are in the code. 
+
+I placed all functions that had to do with moving, removing, and adding entities into the world model, so that the world model class can call the different entities needed to make sure of the position. I put methods like paint into world model because it adds color to the world. In general anything to do with graphics and the objects position, amd animation frames in the World, I placed it here. Occupant functions, withinBounds, and openAround were placed in world model because they generate space in the new world. To sum it all up any method that called and need the World model(which includes have WorldModel in the parameters) into the World Model class.
+
+Anything to do with distance and location, like the adjacent and distancesquared, I put in in the Point class.

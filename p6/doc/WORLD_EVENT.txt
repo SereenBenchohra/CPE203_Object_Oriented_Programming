@@ -1,0 +1,6 @@
+
+1) To trigger the enviromental/world changing  click once and it will spawn you click. To trigger the moving event click more than twice and keep clicking for more entities .
+2) When the event is triggered , the River spawns and it will appear. The second click, the program will spawn Wyvern and if you want more Wyverns, click more to spawn more.  
+3) When the event is triggered nothing happends unless the miners come into contact with the river, in which they transform to Cookie Monsters and attack the Oreblobs.  
+The Wvyern goes to the Obstacle and destroys it by freezing it.
+4) The new Entity is the River and it doesn't move and acts like an obstacle for Cookie Monsters , but for Miners its transforms them to Cookie Monsters that eats the Blobs. The Wyven destroys the Obstacle by freezing it.
